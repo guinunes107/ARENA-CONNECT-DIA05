@@ -1,0 +1,12 @@
+{
+  "turmas": [],
+  "atletas": [],
+  "arbitros": [],
+  "equipes": [],
+  "contadores": {
+    "idTurmaContador": 1,
+    "idAtletaContador": 1,
+    "idArbitroContador": 1,
+    "idEquipeContador": 1
+  }
+}
